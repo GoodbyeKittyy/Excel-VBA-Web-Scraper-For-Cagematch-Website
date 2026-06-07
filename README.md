@@ -4,13 +4,13 @@ Hi there! Thank you for stopping by 🙂
 
 This project is a fully functional Excel Macro-Enabled workbook that scrapes match data from [CageMatch](https://www.cagematch.net), an online professional wrestling database.
 
-> 🚀 **New Python version available!** If you've starred this project, you may want to check out the [improved Python rewrite](https://github.com/GoodbyeKittyy/Python-Web-Scraper-For-Cagematch-Website) — it features a full GUI, multi-promotion scraping, WON/Meltzer star support, stealth browser automation, and Excel export with richer formatting. The original Excel VBA version is still here and fully functional.
+> 🚀 **New Python version available!** If you've starred this project, you may want to check out the [improved Python rewrite](https://github.com/GoodbyeKittyy/Python-Web-Scraper-For-Cagematch-Website) — it features a full GUI, multi-promotion scraping, WON/Meltzer star support, stealth browser automation, and Excel export with richer formatting. This original Excel VBA version 
 
 ---
 
 ## Background
 
-I'm a big professional wrestling fan and built this tool because every wrestling match database — including CageMatch — lacks a sort function. You have to click through dozens of individual links just to find the highest-rated matches. As of 2024, that still hasn't changed, so I built this to do it automatically.
+I'm a big professional wrestling fan and built this tool because every wrestling match database — including CageMatch — lacks a sort function. You have to click through dozens of individual links just to find the highest-rated matches. As of 2026, that still hasn't changed, so I built this to do it automatically.
 
 ---
 
