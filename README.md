@@ -2,9 +2,9 @@
 
 Hi there! Thank you for stopping by 🙂
 
-This project is a fully functional Excel Macro-Enabled workbook that scrapes match data from [CageMatch](https://www.cagematch.net), an online professional wrestling database.
+This project was a fully functional Excel Macro-Enabled workbook that scrapes match data from [CageMatch](https://www.cagematch.net), an online professional wrestling database.
 
-> 🚀 **New Python version available!** If you've starred this project, you may want to check out the [improved Python rewrite](https://github.com/GoodbyeKittyy/Python-Web-Scraper-For-Cagematch-Website) — it features a full GUI, multi-promotion scraping, WON/Meltzer star support, stealth browser automation, and Excel export with richer formatting. This original Excel VBA version 
+> 🚀 **New Python version available!** If you've starred this project, you may want to check out the [improved Python rewrite](https://github.com/GoodbyeKittyy/Python-Web-Scraper-For-Cagematch-Website) — it features a full GUI, multi-promotion scraping, WON/Meltzer star support, stealth browser automation, and Excel export with richer formatting. This original Excel VBA version might not be usable anymore due to new captcha verifications put in place. However, the python version has been automated to pass it. I might attempt to rebuild this orignal version in the future.
 
 ---
 
